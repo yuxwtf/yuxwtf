@@ -1,16 +1,18 @@
-### Hi there 👋
+### <p align="center">⚙️ &nbsp;STATS</p>
+<br>
+<p align="center">
+<a href="https://github.com/yuxontop">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yuxontop&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yuxontop&layout=compact&langs_count=8&theme=react&locale=fr"/>
+</a>
+  
+</p>
 
-<!--
-**yuxontop/yuxontop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----
 
-Here are some ideas to get you started:
+### <p align="center">👀 &nbsp;Total Visits</p>
+<br>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/yuxontop/count.svg" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
