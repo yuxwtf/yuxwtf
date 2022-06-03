@@ -19,3 +19,5 @@
 
 ### <p align="center">⚙️ &nbsp;Programming Languages</p>
 
+Python, Java, C#, HTML, CSS
+
