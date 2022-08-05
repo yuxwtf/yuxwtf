@@ -1,8 +1,8 @@
 ### <p align="center">👨‍💻 &nbsp;ME</p>
 <br>
 <p align="center">
-  <p>🐱‍💻 13 Years Old Devlopper</p>
-  <p>🐍 Python Master</p>
+  <p align="center">🐱‍💻 13 Years Old Devlopper</p>
+  <p align="center">🐍 Python Master</p>
 <p>
 
 ### <p align="center">⚙️ &nbsp;STATS</p>
