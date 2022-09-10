@@ -1,7 +1,7 @@
 ### <p align="center">👨‍💻 &nbsp;ME</p>
 <br>
+```
 from GitHub import ReadMe
-
 class Yux(ReadMe):
     def __init__(self):
         self.profile = "https://github.com/yuxontop"
@@ -22,6 +22,7 @@ class Yux(ReadMe):
         self.activity = "Freelance Developer"
         
  Yux()
+ ```
 
 ### <p align="center">⚙️ &nbsp;STATS</p>
 <br>
