@@ -1,9 +1,27 @@
 ### <p align="center">👨‍💻 &nbsp;ME</p>
 <br>
-<p align="center">
-  <p align="center">>🐱‍💻 | 13 Years Old Devlopper</p>
-  <p align="center">>🐍 | Python Master</p>
-<p>
+from GitHub import ReadMe
+
+class Yux(ReadMe):
+    def __init__(self):
+        self.profile = "https://github.com/yuxontop"
+        self.username = "Yux"
+        
+        self.contacts = {
+            "Discord": "yux#0456",
+        }
+        
+        self.TrainedLanguages = [
+            "Python",
+            "Lua",
+            "JavaScript",
+            "HTML/CSS" # not a real language btw
+        ]
+        
+        self.age = "13"
+        self.activity = "Freelance Developer"
+        
+ Yux()
 
 ### <p align="center">⚙️ &nbsp;STATS</p>
 <br>
