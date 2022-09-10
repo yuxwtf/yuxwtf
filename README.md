@@ -1,6 +1,6 @@
 ### <p align="center">👨‍💻 &nbsp;ME</p>
 <br>
-```
+```py
 from GitHub import ReadMe
 class Yux(ReadMe):
     def __init__(self):
@@ -21,8 +21,7 @@ class Yux(ReadMe):
         self.age = "13"
         self.activity = "Freelance Developer"
         
- Yux()
- ```
+ Yux()```
 
 ### <p align="center">⚙️ &nbsp;STATS</p>
 <br>
