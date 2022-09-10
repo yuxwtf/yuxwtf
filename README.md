@@ -1,17 +1,19 @@
 ### <p align="center">👨‍💻 &nbsp;ME</p>
 <br>
+
 ```py
 from GitHub import ReadMe
+
 class Yux(ReadMe):
     def __init__(self):
-        self.profile = "https://github.com/yuxontop"
+        self.profileUrl = "https://github.com/yuxontop"
         self.username = "Yux"
         
         self.contacts = {
             "Discord": "yux#0456",
         }
         
-        self.TrainedLanguages = [
+        self.usedLanguages = [
             "Python",
             "Lua",
             "JavaScript",
@@ -21,7 +23,8 @@ class Yux(ReadMe):
         self.age = "13"
         self.activity = "Freelance Developer"
         
- Yux()```
+ Yux()
+ ```
 
 ### <p align="center">⚙️ &nbsp;STATS</p>
 <br>
