@@ -20,5 +20,5 @@ class Yux(ReadMe):
         self.age = "13"
         self.activity = "Freelance Developer"
         
- Yux()
+ me = Yux()
  ```
