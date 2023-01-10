@@ -13,8 +13,9 @@ class Yux(ReadMe):
         self.usedLanguages = [
             "Python",
             "Lua",
+            "PHP",
             "JavaScript",
-            "HTML/CSS" # not a real language btw
+            "HTML/CSS" # not languages btw
         ]
         
         self.age = "13"
