@@ -18,7 +18,7 @@ class Yux(ReadMe):
             "HTML/CSS" # not languages btw
         ]
         
-        self.age = "13"
+        self.age = "14"
         self.activity = "Freelance Developer"
         
  me = Yux()
