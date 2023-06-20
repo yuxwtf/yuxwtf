@@ -15,7 +15,7 @@ class Yux(ReadMe):
             "Lua",
             "PHP",
             "JavaScript",
-            "HTML/CSS" # not languages btw
+            "HTML/CSS" # not programming
         ]
         
         self.age = "14"
