@@ -7,7 +7,7 @@ class Yux(ReadMe):
         self.username = "Yux"
         
         self.contacts = {
-            "Discord": "yux#9999",
+            "Discord": "yuxwtf",
         }
         
         self.usedLanguages = [
