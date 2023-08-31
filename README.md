@@ -3,7 +3,7 @@ from GitHub import ReadMe
 
 class Yux(ReadMe):
     def __init__(self):
-        self.profileUrl = "https://github.com/yuxontop"
+        self.profileUrl = "https://github.com/yuxwtf"
         self.username = "Yux"
         
         self.contacts = {
@@ -18,7 +18,7 @@ class Yux(ReadMe):
             "HTML/CSS" # not programming
         ]
         
-        self.age = "14"
+        self.age = "15"
         self.activity = "Freelance Developer"
         
  me = Yux()
